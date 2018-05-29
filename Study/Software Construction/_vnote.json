@@ -1,0 +1,32 @@
+{
+    "created_time": "2018-03-30T03:35:34Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2018-04-18T12:31:49Z",
+            "modified_time": "2018-04-18T12:31:49Z",
+            "name": "MIT软件构造.md"
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2018-04-21T14:17:01Z",
+            "modified_time": "2018-04-23T04:48:09Z",
+            "name": "课堂笔记.md"
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2018-04-23T05:59:30Z",
+            "modified_time": "2018-04-23T05:59:30Z",
+            "name": "正则表达式.md"
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}
